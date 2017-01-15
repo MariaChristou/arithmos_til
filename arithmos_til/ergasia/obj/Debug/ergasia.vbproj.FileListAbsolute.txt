@@ -1,0 +1,22 @@
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.exe
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.xml
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.vbprojResolveAssemblyReference.cache
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.Form1.resources
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.Resources.resources
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.vbproj.GenerateResource.Cache
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.exe
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.xml
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.pdb
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.exe
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.xml
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.pdb
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\bin\Debug\ergasia.exe
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\bin\Debug\ergasia.xml
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.vbprojResolveAssemblyReference.cache
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.Form1.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.Resources.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\arithmos_til\ergasia\obj\Debug\ergasia.vbproj.GenerateResource.Cache
